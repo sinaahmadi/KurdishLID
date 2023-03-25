@@ -1,5 +1,4 @@
 # Language Identification of Kurdish & Zaza-Gorani Languages
----
 
 ![Kurdish alphabets](Kurdish-alphabets.png)
 
@@ -16,7 +15,7 @@ Language identification or detection is the task of detecting the language in wh
 
 ## How to use?
 
-You can load the trained [models](models) using [fastText](https://fasttext.cc) in Python or on command-line. Please consult [https://fasttext.cc/docs/en/python-module.html](https://fasttext.cc/docs/en/python-module.html).
+Our [models](models) are trained using `fastText`. You can run the models in Python or on command-line by installing the `fastText`library as described at [https://fasttext.cc/docs/en/support.html](https://fasttext.cc/docs/en/support.html).
 
 Two models are provided:
 
